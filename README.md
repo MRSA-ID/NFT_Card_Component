@@ -37,7 +37,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 
 
-## Deploying your project
+## Site
 
 [Frontend Mentor - NFT preview card component](https://mrsa-id.github.io/NFT_Card_Component/)
 
